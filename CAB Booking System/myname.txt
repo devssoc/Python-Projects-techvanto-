@@ -1,0 +1,4 @@
+sdh|1234567890|Mumbai|Kolkata|26-5-2018|buissness
+Akhil|8847324328|Delhi|Lucknow|7-11-2018|Economy
+passname|9875611212|Chennai|Kolkata|5-1-2018|buissness
+ksk|898989|Kolkata|Chennai|1-1-2018|Luxury
